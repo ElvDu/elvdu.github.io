@@ -16,7 +16,7 @@ body{
 #navbar{
 	/*background:black;*/
 	font-size:20px;
-	font-family:sans-serif;
+	font-family:'Courier New';
 	/*width:100vw;*/
 }
 #navbar ul{
@@ -43,10 +43,10 @@ body{
 }
 
 #navbar li a:hover{
-	background-color:#555555;
-	opacity: 0.6;
+	/*background-color:#555555;
+	opacity: 0.6;*/
 	transition-timing-function: ease-in;
-	color:white;
+	color:#222222;
 }
 
 #maincontent{
